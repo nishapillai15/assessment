@@ -1,0 +1,34 @@
+body{
+    font-family: Georgia, serif;
+    width: 90%;
+    margin: auto;
+    position: relative;
+    text-align: left;
+    background-color: #ededed;
+}
+input{
+    line-height: 25pt;
+    background: #ffffff;
+    box-shadow: inset 0px 2px 3px 0px rgba(0, 0, 0, 0.1);
+    border-radius: 5px;
+    padding: 0 20px;
+    font-size: 16px;
+    color: #666;
+    border: #fafafa;
+}
+button {
+    display: inline-block;
+    line-height: 20pt;
+    padding: 0 20px;
+    cursor: pointer;
+    font-size: 16px;
+    color: #fff;
+    /* font-family: "Poppins", "Arial", "Helvetica Neue", sans-serif; */
+    background: #4272d7;
+    border:none;
+    border-radius: 2pt;
+    
+}
+.btn{
+    padding: 0px 0px 0px 10px;
+}
